@@ -1,0 +1,6 @@
+        Percentage Bilingual Speakers
+min                          0.000000
+max                         75.657895
+mean                        10.999332
+median                       5.748098
+std                         15.303475
